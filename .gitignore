@@ -1,0 +1,7 @@
+/.vscode
+*.exe
+*.class
+/bin
+.classpath
+.project
+tempCodeRunnerFile.cpp
